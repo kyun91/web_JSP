@@ -1,0 +1,4 @@
+Servlet
+-Servlet은 Server + Applet의 합성어로 서버에서 실행되는 Applet이란 의미로 자바를 이용하여 웹에서 실행되는 프로그램을 작성하는 기술을 말함.
+
+-Servlet은 자바 클래스 형태의 웹 애플리케이션을 말하는데, 브라우저를 통해 자바 클래스가 실행되도록 하기 위해서는 javax.servelt.http 패키지에서 제공하는 HttpServlet 클래스를 상속받아 구현해야 한다. HttpServlet 클래스를 상속 받아 만든 서브 클래스를 서블릿 클래스라고 한다. 
